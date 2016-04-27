@@ -1,3 +1,5 @@
+//The Root Component of the app
+
 (function(app) {
     app.AppComponent =
         ng.core.Component({
